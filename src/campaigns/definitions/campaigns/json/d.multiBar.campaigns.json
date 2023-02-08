@@ -1,0 +1,15 @@
+{
+    "id": "CampaignsMultiBar",
+    "header": "Campaigns",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table",
+        "buckets"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

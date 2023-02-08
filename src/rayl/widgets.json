@@ -1,0 +1,22 @@
+[
+    {
+        "id": "RaylWidgets.RayItem",
+        "name": "RayItem",
+        "description": "RayItem",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.rayl.RayItem"
+    },
+    {
+        "id": "RaylWidgets.RayHome",
+        "name": "RayHome",
+        "description": "RayHome",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.rayl.RayHome"
+    }
+]

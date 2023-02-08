@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.knowledge",
+    "name": "knowledge",
+    "root": "/admin/knowledge",
+    "routes": {
+        "knowledge": "/admin/knowledge"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/knowledge",
+            "icon": "DoubleBookmark",
+            "label": "Links",
+            "groupId": "doing",
+            "order": 5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

@@ -1,0 +1,37 @@
+id: LeadSheet
+header: Leads
+layout:
+    flavour: singleColumn
+    width: 300
+    labelSize: compact
+groups:
+    - id: basic
+      layoutColumnIndex: 0
+fields:
+    - id: companyName
+      fieldType: text
+      placeholder: Company name
+      label: Company name
+      groupId: basic
+    - id: description
+      fieldType: paragraph
+      placeholder: Enter description
+      label: Description
+      groupId: basic
+    - id: status
+      fieldType: text
+      placeholder: Status
+      label: Status
+      groupId: basic
+    - id: name
+      fieldType: text
+      placeholder: Contact name
+      label: Contact name
+      groupId: basic
+    - id: leadPhoneNumber
+      fieldType: text
+      placeholder: Phone
+      label: Phone
+      groupId: basic
+submit:
+    title: Save & close

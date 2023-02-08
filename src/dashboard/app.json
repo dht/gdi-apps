@@ -1,0 +1,27 @@
+{
+    "id": "com.usegdi.apps.dashboard",
+    "name": "dashboard",
+    "root": "/",
+    "routes": {
+        "overview": "/overview",
+        "overviewNavigate": "/overview/:inboxMessageId"
+    },
+    "menuItems": [
+        {
+            "path": "/overview",
+            "icon": "InboxCheck",
+            "label": "Inbox",
+            "groupId": "doing",
+            "showOnSlim": true,
+            "order": 0.5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

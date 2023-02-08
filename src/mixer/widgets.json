@@ -1,0 +1,152 @@
+[
+    {
+        "id": "MixerWidgets.Play",
+        "name": "Play",
+        "description": "Play",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.Play"
+    },
+    {
+        "id": "MixerWidgets.ZoomBuild",
+        "name": "ZoomBuild",
+        "description": "ZoomBuild",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.ZoomBuild"
+    },
+    {
+        "id": "MixerWidgets.Mixer",
+        "name": "Mixer",
+        "description": "Mixer",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.Mixer"
+    },
+    {
+        "id": "MixerWidgets.MixerPanel",
+        "name": "MixerPanel",
+        "description": "MixerPanel",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.MixerPanel"
+    },
+    {
+        "id": "MixerWidgets.MixerTree",
+        "name": "MixerTree",
+        "description": "MixerTree",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.MixerTree"
+    },
+    {
+        "id": "MixerWidgets.Pages",
+        "name": "Pages",
+        "description": "Pages",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.Pages"
+    },
+    {
+        "id": "MixerWidgets.ImageGallery",
+        "name": "ImageGallery",
+        "description": "ImageGallery",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.GalleryImages"
+    },
+    {
+        "id": "MixerWidgets.WidgetGallery",
+        "name": "WidgetGallery",
+        "description": "WidgetGallery",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.GalleryWidgets"
+    },
+    {
+        "id": "MixerWidgets.ImageUpload",
+        "name": "ImageUpload",
+        "description": "ImageUpload",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.ImageUpload"
+    },
+    {
+        "id": "MixerWidgets.Preview",
+        "name": "Preview",
+        "description": "Preview",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.Preview"
+    },
+    {
+        "id": "MixerWidgets.PreviewFull",
+        "name": "PreviewFull",
+        "description": "PreviewFull",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.PreviewFull"
+    },
+    {
+        "id": "MixerWidgets.PlayMode",
+        "name": "PlayMode",
+        "description": "PlayMode",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.PlayMode"
+    },
+    {
+        "id": "MixerWidgets.WindowSize",
+        "name": "WindowSize",
+        "description": "WindowSize",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.WindowSize"
+    },
+    {
+        "id": "MixerWidgets.Datasets",
+        "name": "Datasets",
+        "description": "Datasets",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.Datasets"
+    },
+    {
+        "id": "MixerWidgets.AdhocLogs",
+        "name": "AdhocLogs",
+        "description": "AdhocLogs",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.mixer.ModalAdhocLogs"
+    }
+]

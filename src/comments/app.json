@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.comments",
+    "name": "comments",
+    "root": "/admin/comments",
+    "routes": {
+        "comments": "/admin/comments"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/comments",
+            "icon": "Comment",
+            "label": "Comment",
+            "groupId": "site",
+            "order": 1.5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

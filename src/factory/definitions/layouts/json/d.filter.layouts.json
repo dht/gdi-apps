@@ -1,0 +1,19 @@
+{
+    "id": "LayoutFilter",
+    "fields": [
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$layoutTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "name",
+            "text": "Name",
+            "value": "name"
+        }
+    ]
+}

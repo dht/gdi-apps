@@ -1,0 +1,16 @@
+{
+    "id": "PplMultiBar",
+    "header": "People",
+    "initialViewMode": "gallery",
+    "viewModes": [
+        "gallery",
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "pie"
+}

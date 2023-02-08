@@ -1,0 +1,12 @@
+[
+    {
+        "id": "DocsWidgets.DocsHome",
+        "name": "DocsHome",
+        "description": "DocsHome",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.docs.DocsHome"
+    }
+]

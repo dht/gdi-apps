@@ -1,0 +1,21 @@
+{
+    "id": "com.usegdi.apps.settings",
+    "name": "settings",
+    "root": "/admin",
+    "routes": {
+        "account": "/admin/account",
+        "activeApps": "/admin/apps",
+        "activeServices": "/admin/services",
+        "settings": "/admin/settings",
+        "siteProperties": "/admin/siteProperties"
+    },
+    "menuItems": [],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

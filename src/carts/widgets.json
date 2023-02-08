@@ -1,0 +1,12 @@
+[
+    {
+        "id": "CartsWidgets.Carts",
+        "name": "Carts",
+        "description": "Carts",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.carts.Carts"
+    }
+]

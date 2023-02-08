@@ -1,0 +1,13 @@
+id: ArticlesMultiBar
+header: Articles
+initialViewMode: table
+viewModes:
+    - gallery
+    - table
+    - spreadsheet
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

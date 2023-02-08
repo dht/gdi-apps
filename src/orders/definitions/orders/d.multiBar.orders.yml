@@ -1,0 +1,11 @@
+id: OrdersMultiBar
+header: Orders
+initialViewMode: table
+viewModes:
+    - table
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

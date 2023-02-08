@@ -1,0 +1,12 @@
+[
+    {
+        "id": "DealsWidgets.Deals",
+        "name": "Deals",
+        "description": "Deals",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.deals.Deals"
+    }
+]

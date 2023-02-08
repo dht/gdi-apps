@@ -1,0 +1,15 @@
+{
+    "id": "DealsMultiBar",
+    "header": "Deals",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

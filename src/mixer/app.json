@@ -1,0 +1,78 @@
+{
+    "id": "com.usegdi.apps.mixer",
+    "name": "mixer",
+    "root": "/admin",
+    "routes": {
+        "mixer": "/admin/pages/:pageId",
+        "pages": "/admin/pages",
+        "imageGallery": "/admin/imageGallery",
+        "widgetGallery": "/admin/widgetGallery",
+        "datasets": "/admin/datasets",
+        "previewFull": "/admin/preview/full",
+        "preview": "/admin/preview",
+        "zoomBuild": "/admin/zoomBuild/:zoomWidgetId",
+        "play": "/admin/play"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/pages",
+            "icon": "Color",
+            "label": "Mixer",
+            "groupId": "site",
+            "showOnSlim": true,
+            "order": 0
+        },
+        {
+            "path": "/admin/imageGallery",
+            "icon": "ImageSearch",
+            "label": "Images",
+            "groupId": "site",
+            "order": 1
+        },
+        {
+            "path": "/admin/widgetGallery",
+            "icon": "AddIn",
+            "label": "Blocks",
+            "groupId": "site",
+            "order": 2
+        },
+        {
+            "path": "/admin/datasets",
+            "icon": "DataManagementSettings",
+            "label": "Data",
+            "groupId": "site",
+            "order": 3
+        }
+    ],
+    "contextBarItems": [
+        {
+            "id": "devtoolsWindowSize",
+            "label": "Window Size",
+            "widgetId": "MixerWidgets.WindowSize",
+            "responsive": false
+        }
+    ],
+    "commandBarItems": [
+        {
+            "id": "devtoolsWindowSize",
+            "label": "Show Window Size",
+            "event": {
+                "type": "ADD_ITEM_TO_CONTEXT_BAR",
+                "payload": {
+                    "contextBarItemId": "devtoolsWindowSize"
+                }
+            },
+            "shortKeys": [
+                {
+                    "key": "`"
+                }
+            ]
+        }
+    ],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "DashboardWidgets.Overview",
+        "name": "Overview",
+        "description": "Overview",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.dashboard.OverviewNavigate"
+    },
+    {
+        "id": "DashboardWidgets.OverviewNavigate",
+        "name": "OverviewNavigate",
+        "description": "OverviewNavigate",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.dashboard.OverviewNavigate"
+    }
+]

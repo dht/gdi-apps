@@ -1,0 +1,12 @@
+id: CampaignsMultiBar
+header: Campaigns
+initialViewMode: table
+viewModes:
+    - table
+    - buckets
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

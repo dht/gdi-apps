@@ -1,0 +1,14 @@
+{
+    "id": "WidgetsMultiBar",
+    "header": "Widgets",
+    "initialViewMode": "gallery",
+    "viewModes": [
+        "gallery"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

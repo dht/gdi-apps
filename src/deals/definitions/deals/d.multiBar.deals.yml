@@ -1,0 +1,12 @@
+id: DealsMultiBar
+header: Deals
+initialViewMode: table
+viewModes:
+    - table
+    - spreadsheet
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

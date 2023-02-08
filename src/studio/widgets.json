@@ -1,0 +1,92 @@
+[
+    {
+        "id": "StudioWidgets.MainDisplay",
+        "name": "MainDisplay",
+        "description": "MainDisplay",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.MainDisplay"
+    },
+    {
+        "id": "StudioWidgets.Reader",
+        "name": "Reader",
+        "description": "Reader",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.Reader"
+    },
+    {
+        "id": "StudioWidgets.Overview",
+        "name": "Overview",
+        "description": "Overview",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.Overview3d"
+    },
+    {
+        "id": "StudioWidgets.OverviewBar",
+        "name": "OverviewBar",
+        "description": "OverviewBar",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.OverviewBar"
+    },
+    {
+        "id": "StudioWidgets.OverviewNavigate",
+        "name": "OverviewNavigate",
+        "description": "OverviewNavigate",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.OverviewNavigate"
+    },
+    {
+        "id": "StudioWidgets.Sims",
+        "name": "Sims",
+        "description": "Sims",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.Sims"
+    },
+    {
+        "id": "StudioWidgets.ProTip",
+        "name": "ProTip",
+        "description": "ProTip",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.ProTip"
+    },
+    {
+        "id": "StudioWidgets.Schedule",
+        "name": "ProTip",
+        "description": "Schedule",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.Schedule"
+    },
+    {
+        "id": "StudioWidgets.Notifications",
+        "name": "Notifications",
+        "description": "Notifications",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.studio.Notifications"
+    }
+]

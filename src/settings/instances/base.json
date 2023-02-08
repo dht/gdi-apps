@@ -1,0 +1,72 @@
+{
+    "account": [
+        {
+            "id": "account",
+            "widgetId": "SettingsWidgets.Account",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            }
+        }
+    ],
+    "activeApps": [
+        {
+            "id": "activeApps",
+            "widgetId": "SettingsWidgets.ActiveApps",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            }
+        }
+    ],
+    "activeServices": [
+        {
+            "id": "activeServices",
+            "widgetId": "SettingsWidgets.ActiveServices",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            }
+        }
+    ],
+    "settings": [
+        {
+            "id": "settings",
+            "widgetId": "SettingsWidgets.Settings",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            }
+        }
+    ],
+    "siteProperties": [
+        {
+            "id": "siteProperties",
+            "widgetId": "SettingsWidgets.SiteProperties",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            }
+        }
+    ]
+}

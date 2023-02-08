@@ -1,0 +1,15 @@
+{
+    "id": "ProjectsMultiBar",
+    "header": "Projects",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

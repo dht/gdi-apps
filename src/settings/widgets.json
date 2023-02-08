@@ -1,0 +1,52 @@
+[
+    {
+        "id": "SettingsWidgets.Settings",
+        "name": "Settings",
+        "description": "Settings",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.settings.Settings"
+    },
+    {
+        "id": "SettingsWidgets.SiteProperties",
+        "name": "SiteProperties",
+        "description": "SiteProperties",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.settings.SiteProperties"
+    },
+    {
+        "id": "SettingsWidgets.Account",
+        "name": "Account",
+        "description": "Account",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.settings.Account"
+    },
+    {
+        "id": "SettingsWidgets.ActiveApps",
+        "name": "ActiveApps",
+        "description": "ActiveApps",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.settings.ActiveApps"
+    },
+    {
+        "id": "SettingsWidgets.ActiveServices",
+        "name": "ActiveServices",
+        "description": "ActiveServices",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.settings.ActiveServices"
+    }
+]

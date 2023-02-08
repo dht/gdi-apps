@@ -1,0 +1,4 @@
+{
+    "DropToUpload": "Drop a JSON file to import data",
+    "ImportDataError": "Error in file structure, see console for details"
+}

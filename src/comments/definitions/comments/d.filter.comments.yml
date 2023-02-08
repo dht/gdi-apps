@@ -1,0 +1,21 @@
+id: CommentFilter
+fields:
+    - id: date
+      title: Date
+      cellType: date
+      optionSelectorId: $periods
+      allowMultiple: false
+    - id: status
+      title: Status
+      cellType: text
+      optionSelectorId: $status
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $commentsTags
+      allowMultiple: false
+sort:
+    - id: date
+      text: Date
+      value: date

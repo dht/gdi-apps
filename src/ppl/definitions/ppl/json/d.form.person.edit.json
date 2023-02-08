@@ -1,0 +1,236 @@
+{
+    "id": "PersonEdit",
+    "header": "Edit Person",
+    "layout": {
+        "flavour": "twoColumns",
+        "width": 600,
+        "flex": [
+            2,
+            3
+        ],
+        "labelSize": "compact"
+    },
+    "groups": [
+        {
+            "id": "basic",
+            "layoutColumnIndex": 0
+        },
+        {
+            "id": "extra",
+            "layoutColumnIndex": 1
+        }
+    ],
+    "tabs": [
+        {
+            "id": "basic",
+            "title": "Basic",
+            "tabIndex": 0
+        },
+        {
+            "id": "links",
+            "title": "Links",
+            "tabIndex": 1
+        },
+        {
+            "id": "about",
+            "title": "About",
+            "tabIndex": 2
+        },
+        {
+            "id": "extra",
+            "title": "Extra",
+            "tabIndex": 3
+        }
+    ],
+    "fields": [
+        {
+            "id": "imageUrl",
+            "fieldType": "imageUpload",
+            "groupId": "basic",
+            "tabId": "basic"
+        },
+        {
+            "id": "firstName",
+            "label": "First name",
+            "fieldType": "text",
+            "placeholder": "First name",
+            "groupId": "basic",
+            "tabId": "basic"
+        },
+        {
+            "id": "lastName",
+            "fieldType": "text",
+            "label": "Last name",
+            "placeholder": "Last name",
+            "groupId": "basic",
+            "tabId": "basic"
+        },
+        {
+            "id": "phoneNumber",
+            "fieldType": "text",
+            "label": "Phone number",
+            "placeholder": "Phone number",
+            "groupId": "basic",
+            "tabId": "basic"
+        },
+        {
+            "id": "shortDescription",
+            "fieldType": "text",
+            "label": "Short description",
+            "placeholder": "One liner",
+            "groupId": "basic",
+            "tabId": "about"
+        },
+        {
+            "id": "dateOfBirth",
+            "fieldType": "date",
+            "label": "Date of birth",
+            "placeholder": "Date of birth",
+            "groupId": "basic",
+            "tabId": "about"
+        },
+        {
+            "id": "gender",
+            "fieldType": "select",
+            "label": "Gender",
+            "placeholder": "Gender",
+            "groupId": "basic",
+            "optionSelector": "$pplGender",
+            "tabId": "extra"
+        },
+        {
+            "id": "tags",
+            "fieldType": "tags",
+            "label": "Tags",
+            "placeholder": "Tags",
+            "optionSelector": "$pplTags",
+            "groupId": "extra",
+            "tabId": "basic"
+        },
+        {
+            "id": "category",
+            "label": "Category",
+            "fieldType": "select",
+            "placeholder": "Category",
+            "optionSelector": "$pplCategory",
+            "groupId": "basic",
+            "tabId": "extra"
+        },
+        {
+            "id": "tier",
+            "label": "Tier",
+            "fieldType": "number",
+            "placeholder": "Tier",
+            "params": {
+                "min": 1,
+                "max": 3
+            },
+            "groupId": "basic",
+            "tabId": "extra"
+        },
+        {
+            "id": "company",
+            "fieldType": "text",
+            "label": "Company",
+            "placeholder": "Company",
+            "groupId": "extra",
+            "tabId": "basic"
+        },
+        {
+            "id": "jobTitle",
+            "fieldType": "text",
+            "label": "Job title",
+            "placeholder": "Job title",
+            "groupId": "extra",
+            "tabId": "basic"
+        },
+        {
+            "id": "height",
+            "fieldType": "slider",
+            "label": "Height",
+            "params": {
+                "min": 1.5,
+                "max": 2.2,
+                "step": 0.01
+            },
+            "placeholder": "Height",
+            "groupId": "basic",
+            "tabId": "about"
+        },
+        {
+            "id": "socialFacebookUrl",
+            "fieldType": "text",
+            "label": "Facebook profile",
+            "placeholder": "Facebook",
+            "groupId": "extra",
+            "tabId": "links"
+        },
+        {
+            "id": "socialTwitterUrl",
+            "label": "Twitter profile",
+            "fieldType": "text",
+            "placeholder": "Twitter",
+            "groupId": "extra",
+            "tabId": "links"
+        },
+        {
+            "id": "socialInstagramUrl",
+            "label": "Facebook page",
+            "fieldType": "text",
+            "placeholder": "Instagram",
+            "groupId": "extra",
+            "tabId": "links"
+        },
+        {
+            "id": "socialLinkedInUrl",
+            "fieldType": "text",
+            "label": "Linkedin profile",
+            "placeholder": "Linkedin",
+            "groupId": "extra",
+            "tabId": "links"
+        },
+        {
+            "id": "wikipediaUrl",
+            "fieldType": "text",
+            "label": "Wikipedia page",
+            "placeholder": "Wikipedia",
+            "groupId": "extra",
+            "tabId": "links"
+        },
+        {
+            "id": "email",
+            "fieldType": "text",
+            "label": "Email",
+            "placeholder": "Email",
+            "groupId": "extra",
+            "tabId": "basic"
+        },
+        {
+            "id": "netWorth",
+            "fieldType": "number",
+            "label": "Net worth",
+            "placeholder": "Net worth",
+            "params": {
+                "max": 500000,
+                "unit": "M$"
+            },
+            "groupId": "extra",
+            "tabId": "extra"
+        },
+        {
+            "id": "notes",
+            "fieldType": "paragraph",
+            "label": "Notes",
+            "placeholder": "Notes",
+            "groupId": "extra",
+            "tabId": "extra"
+        }
+    ],
+    "submit": {
+        "title": "Save & close",
+        "bkColor": "#112"
+    },
+    "external": {
+        "uploadDestinationFolder": "people"
+    }
+}

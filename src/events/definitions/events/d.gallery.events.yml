@@ -1,0 +1,5 @@
+id: EventGallery
+header: Events
+itemType: events
+fixedRatio: 1
+columns: 5

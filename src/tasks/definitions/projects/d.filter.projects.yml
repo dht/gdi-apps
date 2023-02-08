@@ -1,0 +1,11 @@
+id: ProjectsFilter
+fields:
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $projectTags
+      allowMultiple: false
+sort:
+    - id: name
+      text: Name
+      value: name

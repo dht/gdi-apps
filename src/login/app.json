@@ -1,0 +1,17 @@
+{
+    "id": "com.usegdi.apps.auth",
+    "name": "auth",
+    "root": "/auth",
+    "routes": {
+        "login": "/login"
+    },
+    "menuItems": [],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

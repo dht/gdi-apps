@@ -1,0 +1,14 @@
+{
+    "id": "OrdersMultiBar",
+    "header": "Orders",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

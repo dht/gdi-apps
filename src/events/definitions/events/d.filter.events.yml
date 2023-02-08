@@ -1,0 +1,36 @@
+id: EventFilter
+fields:
+    - id: date
+      title: Date
+      cellType: date
+      optionSelectorId: $periods
+      allowMultiple: false
+    - id: rating
+      title: Rating
+      cellType: number
+      options:
+          - id: r1
+            text: One
+            value: 1
+          - id: r2
+            text: Two
+            value: 2
+          - id: r3
+            text: Three
+            value: 3
+          - id: r4
+            text: Four
+            value: 4
+          - id: r5
+            text: Five
+            value: 5
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $eventTags
+      allowMultiple: false
+sort:
+    - id: date
+      text: Date
+      value: date

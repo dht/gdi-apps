@@ -1,0 +1,19 @@
+{
+    "id": "PageInstanceFilter",
+    "fields": [
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$pageInstanceTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "date",
+            "text": "Date",
+            "value": "date"
+        }
+    ]
+}

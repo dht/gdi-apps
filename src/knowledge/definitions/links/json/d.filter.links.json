@@ -1,0 +1,38 @@
+{
+    "id": "LinkFilter",
+    "fields": [
+        {
+            "id": "revisitDate",
+            "title": "Revisit Date",
+            "cellType": "date",
+            "optionSelectorId": "$periods",
+            "allowMultiple": false
+        },
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$linksTags",
+            "allowMultiple": false
+        },
+        {
+            "id": "category",
+            "title": "Category",
+            "cellType": "text",
+            "optionSelectorId": "$linksCategories",
+            "allowMultiple": true
+        }
+    ],
+    "sort": [
+        {
+            "id": "revisitDate",
+            "text": "Revisit Date",
+            "value": "revisitDate"
+        },
+        {
+            "id": "category",
+            "text": "Category",
+            "value": "category"
+        }
+    ]
+}

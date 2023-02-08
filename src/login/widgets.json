@@ -1,0 +1,12 @@
+[
+    {
+        "id": "LoginWidgets.Login",
+        "name": "Login",
+        "description": "Login",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.login.Login"
+    }
+]

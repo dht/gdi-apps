@@ -1,0 +1,19 @@
+id: TicketsFilter
+fields:
+    - id: status
+      title: Status
+      cellType: text
+      optionSelectorId: $ticketStatus
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $ticketsTags
+      allowMultiple: false
+sort:
+    - id: summary
+      text: Summary
+      value: summary
+    - id: timeEstimate
+      text: Time Estimate
+      value: timeEstimate

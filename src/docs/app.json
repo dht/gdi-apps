@@ -1,0 +1,26 @@
+{
+    "id": "com.usegdi.apps.docs",
+    "name": "docs",
+    "root": "/admin/docs",
+    "routes": {
+        "docsHome": "/admin/docs/home"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/docs/home",
+            "icon": "TextDocument",
+            "label": "Docs",
+            "groupId": "site",
+            "showOnSlim": true,
+            "order": 0
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

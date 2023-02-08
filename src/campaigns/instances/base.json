@@ -1,0 +1,17 @@
+{
+    "campaigns": [
+        {
+            "id": "Campaigns",
+            "widgetId": "CampaignsWidgets.Campaigns",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            },
+            "allowOverflow": false
+        }
+    ]
+}

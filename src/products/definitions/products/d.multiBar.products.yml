@@ -1,0 +1,11 @@
+id: ProductMultiBar
+header: Products
+initialViewMode: table
+viewModes:
+    - table
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

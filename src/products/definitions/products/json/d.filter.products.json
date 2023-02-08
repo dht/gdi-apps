@@ -1,0 +1,33 @@
+{
+    "id": "ProductFilter",
+    "fields": [
+        {
+            "id": "status",
+            "title": "Status",
+            "cellType": "text",
+            "optionSelectorId": "$status",
+            "allowMultiple": true
+        },
+        {
+            "id": "price",
+            "title": "Price",
+            "cellType": "number",
+            "optionSelectorId": "$price",
+            "allowMultiple": true
+        },
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$productTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "price",
+            "text": "Price",
+            "value": "price"
+        }
+    ]
+}

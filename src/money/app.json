@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.money",
+    "name": "money",
+    "root": "/admin/money",
+    "routes": {
+        "money": "/admin/money"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/money",
+            "icon": "money",
+            "label": "Money",
+            "groupId": "doing",
+            "order": 3
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

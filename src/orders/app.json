@@ -1,0 +1,33 @@
+{
+    "id": "com.usegdi.apps.orders",
+    "name": "orders",
+    "root": "/admin",
+    "routes": {
+        "orders": "/admin/orders",
+        "coupons": "/admin/coupons"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/orders",
+            "icon": "ActivateOrders",
+            "label": "Orders",
+            "groupId": "shop",
+            "order": 2
+        },
+        {
+            "path": "/admin/coupons",
+            "icon": "Coupon",
+            "label": "Coupon",
+            "groupId": "marketing",
+            "order": 4
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

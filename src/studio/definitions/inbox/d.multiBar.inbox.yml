@@ -1,0 +1,16 @@
+id: InboxMultiBar
+header: Inbox
+initialViewMode: table
+viewModes:
+    - table
+hideParts:
+    - filter
+    - tools
+    - tagging
+    - search
+    - buttons
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

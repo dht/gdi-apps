@@ -1,0 +1,45 @@
+id: PagesMultiBar
+header: Pages
+initialViewMode: gallery
+viewModes:
+    - gallery
+    - table
+    - spreadsheet
+hideParts:
+    - preview
+    - tagging
+    - filter
+tools:
+    - id: select
+      text: Select
+      iconName: BorderDot
+      options:
+          - id: none
+            text: None
+            iconName: LocationCircle
+          - id: single
+            text: Single
+            iconName: BorderDot
+          - id: multiple
+            text: Multiple
+            iconName: TripleColumn
+    - id: edit
+      text: Edit
+      iconName: Edit
+    - id: duplicate
+      text: Duplicate
+      iconName: DuplicateRow
+    - id: delete
+      text: Delete
+      iconName: Delete
+    - id: import
+      text: Import JSON
+      iconName: Upload
+      isExtra: true
+    - id: download
+      text: Export JSON
+      iconName: Download
+      isExtra: true
+
+toolbarMode: select
+doubleClickActionId: drillDown

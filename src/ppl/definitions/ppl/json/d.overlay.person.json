@@ -1,0 +1,21 @@
+{
+    "id": "PersonOverlay",
+    "sequence": 1,
+    "overlayType": "absolute",
+    "fields": [
+        {
+            "id": "tags",
+            "fieldId": "tags",
+            "fieldType": "tags",
+            "locationKey": "topLeft",
+            "order": 1
+        },
+        {
+            "id": "fullName",
+            "fieldId": "fullName",
+            "fieldType": "text",
+            "locationKey": "bottomRight",
+            "order": 2
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "CartFilter",
+    "fields": [
+        {
+            "id": "startDate",
+            "title": "Start date",
+            "cellType": "startDate",
+            "optionSelectorId": "$periods",
+            "allowMultiple": false
+        },
+        {
+            "id": "status",
+            "title": "Status",
+            "cellType": "status",
+            "optionSelectorId": "$status",
+            "allowMultiple": false
+        },
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$cartsTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "startDate",
+            "text": "Start Date",
+            "value": "startDate"
+        }
+    ]
+}

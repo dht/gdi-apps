@@ -1,0 +1,12 @@
+[
+    {
+        "id": "CampaignsWidgets.Campaigns",
+        "name": "Campaigns",
+        "description": "Campaigns",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.campaigns.Campaigns"
+    }
+]

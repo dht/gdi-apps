@@ -1,0 +1,16 @@
+{
+    "id": "EventsMultiBar",
+    "header": "Events",
+    "initialViewMode": "table",
+    "viewModes": [
+        "gallery",
+        "calendar",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

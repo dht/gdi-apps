@@ -1,0 +1,17 @@
+{
+    "biblo": [
+        {
+            "id": "InterestingReads",
+            "widgetId": "BibloWidgets.InterestingReads",
+            "position": {
+                "y": 2,
+                "x": 10
+            },
+            "dimension": {
+                "y": 46,
+                "x": 88
+            },
+            "allowOverflow": false
+        }
+    ]
+}

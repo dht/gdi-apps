@@ -1,0 +1,17 @@
+id: LeadsMultiBar
+header: Leads
+initialViewMode: buckets
+viewModes:
+    - buckets
+    - table
+    - spreadsheet
+    - one
+    - gallery
+    - timeline
+    - calendar
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.products",
+    "name": "products",
+    "root": "/admin/products",
+    "routes": {
+        "products": "/admin/products"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/products",
+            "icon": "Product",
+            "label": "Products",
+            "groupId": "shop",
+            "order": 1
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

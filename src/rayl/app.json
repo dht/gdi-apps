@@ -1,0 +1,18 @@
+{
+    "id": "com.usegdi.apps.rayl",
+    "name": "rayl",
+    "root": "/admin/rayl",
+    "routes": {
+        "rayItem": "/admin/rayl/rayItem",
+        "rayHome": "/admin/rayl/rayHome"
+    },
+    "menuItems": [],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

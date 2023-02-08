@@ -1,0 +1,11 @@
+id: CouponsMultiBar
+header: Coupons
+initialViewMode: table
+viewModes:
+    - table
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

@@ -1,0 +1,17 @@
+{
+    "id": "TicketsMultiBar",
+    "header": "Tickets",
+    "initialViewMode": "buckets",
+    "viewModes": [
+        "buckets",
+        "custom",
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

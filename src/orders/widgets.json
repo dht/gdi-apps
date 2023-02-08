@@ -1,0 +1,22 @@
+[
+    {
+        "id": "OrdersWidgets.Orders",
+        "name": "Orders",
+        "description": "Orders",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.orders.Orders"
+    },
+    {
+        "id": "OrdersWidgets.Coupons",
+        "name": "Coupons",
+        "description": "Coupons",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.orders.Coupons"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "id": "PplWidgets.Ppl",
+        "name": "Ppl",
+        "description": "Ppl",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.ppl.Ppl"
+    }
+]

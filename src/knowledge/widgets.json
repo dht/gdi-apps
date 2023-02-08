@@ -1,0 +1,12 @@
+[
+    {
+        "id": "KnowledgeWidgets.Knowledge",
+        "name": "Knowledge",
+        "description": "Knowledge",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.knowledge.Knowledge"
+    }
+]

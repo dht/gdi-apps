@@ -1,0 +1,13 @@
+id: MoneysMultiBar
+header: Money
+initialViewMode: table
+viewModes:
+    - timeline
+    - spreadsheet
+hideParts:
+    - tools
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

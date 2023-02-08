@@ -1,0 +1,45 @@
+{
+    "id": "DealFilter",
+    "fields": [
+        {
+            "id": "startDate",
+            "title": "Date",
+            "cellType": "startDate",
+            "optionSelectorId": "$periods",
+            "allowMultiple": false
+        },
+        {
+            "id": "status",
+            "title": "Status",
+            "cellType": "text",
+            "optionSelectorId": "$status",
+            "allowMultiple": true
+        },
+        {
+            "id": "worth",
+            "title": "Worth",
+            "cellType": "number",
+            "optionSelectorId": "$worth",
+            "allowMultiple": true
+        },
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$leadsTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "startDate",
+            "text": "Date",
+            "value": "startDate"
+        },
+        {
+            "id": "worth",
+            "text": "Worth",
+            "value": "worth"
+        }
+    ]
+}

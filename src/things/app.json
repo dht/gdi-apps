@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.things",
+    "name": "things",
+    "root": "/admin/things",
+    "routes": {
+        "things": "/admin/things"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/things",
+            "icon": "Sunny",
+            "label": "Things",
+            "groupId": "extra",
+            "order": 4
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

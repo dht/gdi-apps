@@ -1,0 +1,14 @@
+{
+    "id": "CouponsMultiBar",
+    "header": "Coupons",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

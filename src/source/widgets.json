@@ -1,0 +1,12 @@
+[
+    {
+        "id": "SourceWidgets.ImportData",
+        "name": "ImportData",
+        "description": "ImportData",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.source.ImportData"
+    }
+]

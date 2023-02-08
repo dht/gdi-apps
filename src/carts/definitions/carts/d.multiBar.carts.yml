@@ -1,0 +1,12 @@
+id: CartsMultiBar
+header: Carts
+initialViewMode: table
+viewModes:
+    - table
+    - buckets
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

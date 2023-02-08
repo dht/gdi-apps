@@ -1,0 +1,14 @@
+{
+    "id": "ImagesMultiBar",
+    "header": "Images",
+    "initialViewMode": "gallery",
+    "viewModes": [
+        "gallery"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

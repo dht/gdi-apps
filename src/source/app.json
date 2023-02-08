@@ -1,0 +1,27 @@
+{
+    "id": "com.usegdi.apps.source",
+    "name": "source",
+    "root": "/admin/source",
+    "routes": {
+        "importData": "/admin/source/importData",
+        "source": "/admin/source"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/source/importData",
+            "icon": "CloudImportExport",
+            "label": "Import",
+            "groupId": "extra",
+            "showOnSlim": false,
+            "order": 5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

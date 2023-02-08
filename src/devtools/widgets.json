@@ -1,0 +1,62 @@
+[
+    {
+        "id": "DevtoolsWidgets.DevLogsViewer",
+        "name": "DevLogsViewer",
+        "description": "DevLogsViewer",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.DevLogs"
+    },
+    {
+        "id": "DevtoolsWidgets.LocalDataViewer",
+        "name": "LocalDataViewer",
+        "description": "LocalDataViewer",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.LocalDataViewer"
+    },
+    {
+        "id": "DevtoolsWidgets.Console",
+        "name": "Console",
+        "description": "Console",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.Console"
+    },
+    {
+        "id": "DevtoolsWidgets.StoreSize",
+        "name": "StoreSize",
+        "description": "Redux store size",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.StoreSize"
+    },
+    {
+        "id": "DevtoolsWidgets.ReduxConnectedDevtools",
+        "name": "ReduxConnectedDevtools",
+        "description": "Redux connected devtools",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.ReduxConnectedDevtools"
+    },
+    {
+        "id": "DevtoolsWidgets.LoginCycle",
+        "name": "LoginCycle",
+        "description": "LoginCycle",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.devtools.LoginCycle"
+    }
+]

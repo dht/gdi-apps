@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.biblo",
+    "name": "biblo",
+    "root": "/admin/biblo",
+    "routes": {
+        "biblo": "/admin/biblo"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/biblo",
+            "icon": "Diamond",
+            "label": "Reads",
+            "groupId": "extra",
+            "order": 3
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

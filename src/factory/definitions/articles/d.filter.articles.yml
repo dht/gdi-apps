@@ -1,0 +1,29 @@
+id: ArticleFilter
+fields:
+    - id: publishDate
+      title: Publish date
+      cellType: date
+      optionSelectorId: $periods
+      allowMultiple: false
+    - id: authorName
+      title: Author
+      cellType: text
+      optionSelectorId: $articleAuthors
+      allowMultiple: true
+    - id: status
+      title: Status
+      cellType: text
+      optionSelectorId: $articleStatus
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $articleTags
+      allowMultiple: false
+sort:
+    - id: publishDate
+      text: Publish date
+      value: publishDate
+    - id: wordCount
+      text: Word count
+      value: wordCount

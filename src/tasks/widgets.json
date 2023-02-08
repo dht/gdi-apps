@@ -1,0 +1,42 @@
+[
+    {
+        "id": "TasksWidgets.Tickets",
+        "name": "Tickets",
+        "description": "Tickets",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.tasks.Tickets"
+    },
+    {
+        "id": "TasksWidgets.Projects",
+        "name": "Projects",
+        "description": "Projects",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.tasks.Projects"
+    },
+    {
+        "id": "TasksWidgets.Mini",
+        "name": "Mini",
+        "description": "Mini",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.tasks.Mini"
+    },
+    {
+        "id": "TasksWidgets.ProjectSwitch",
+        "name": "ProjectSwitch",
+        "description": "ProjectSwitch",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.tasks.ProjectSwitch"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "id": "ProductMultiBar",
+    "header": "Products",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

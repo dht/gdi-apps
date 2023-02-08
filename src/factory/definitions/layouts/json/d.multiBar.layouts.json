@@ -1,0 +1,16 @@
+{
+    "id": "LayoutsMultiBar",
+    "header": "Layouts",
+    "initialViewMode": "table",
+    "viewModes": [
+        "gallery",
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

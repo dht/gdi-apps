@@ -1,0 +1,112 @@
+[
+    {
+        "id": "SoundboardWidgets.Squares",
+        "name": "Squares",
+        "description": "Squares",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.Squares"
+    },
+    {
+        "id": "SoundboardWidgets.SoundboardTop",
+        "name": "SoundboardTop",
+        "description": "SoundboardTop",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.SoundboardTop"
+    },
+    {
+        "id": "SoundboardWidgets.ScheduleTop",
+        "name": "ScheduleTop",
+        "description": "ScheduleTop",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ScheduleTop"
+    },
+    {
+        "id": "SoundboardWidgets.ProjectsTable",
+        "name": "ProjectsTable",
+        "description": "ProjectsTable",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ProjectsTable"
+    },
+    {
+        "id": "SoundboardWidgets.ScheduleTable",
+        "name": "ScheduleTable",
+        "description": "ScheduleTable",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ScheduleTable"
+    },
+    {
+        "id": "SoundboardWidgets.ScheduleCommandBar",
+        "name": "ScheduleCommandBar",
+        "description": "ScheduleCommandBar",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ScheduleCommandBar"
+    },
+    {
+        "id": "SoundboardWidgets.Switcher",
+        "name": "Switcher",
+        "description": "Switcher",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.Switcher"
+    },
+    {
+        "id": "SoundboardWidgets.ScheduleClock",
+        "name": "ScheduleClock",
+        "description": "ScheduleClock",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ScheduleClock"
+    },
+    {
+        "id": "SoundboardWidgets.ScheduleClock2",
+        "name": "ScheduleClock2",
+        "description": "ScheduleClock2",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.ScheduleClock2"
+    },
+    {
+        "id": "SoundboardWidgets.Sims",
+        "name": "Sims",
+        "description": "Sims",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.Sims"
+    },
+    {
+        "id": "SoundboardWidgets.Mini",
+        "name": "Mini",
+        "description": "Mini",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.soundboard.Mini"
+    }
+]

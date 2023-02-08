@@ -1,0 +1,47 @@
+id: PplFilter
+fields:
+    - id: tier
+      title: Tier
+      cellType: text
+      options:
+          - id: 1
+            text: Tier 1
+            value: 1
+          - id: 2
+            text: Tier 2
+            value: 2
+          - id: 3
+            text: Tier 3
+            value: 3
+      allowMultiple: false
+    - id: category
+      title: Category
+      cellType: text
+      optionSelectorId: $pplCategory
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $pplTags
+      allowMultiple: true
+    - id: gender
+      title: Gender
+      cellType: text
+      options:
+          - id: male
+            text: Male
+            value: male
+          - id: female
+            text: Female
+            value: female
+      allowMultiple: true
+sort:
+    - id: firstName
+      text: First Name
+      value: firstName
+    - id: lastName
+      text: Last Name
+      value: lastName
+    - id: dateOfBirth
+      text: Date of Birth
+      value: dateOfBirth

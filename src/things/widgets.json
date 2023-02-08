@@ -1,0 +1,12 @@
+[
+    {
+        "id": "ThingsWidgets.Sheets",
+        "name": "Things",
+        "description": "Things",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.things.Sheets"
+    }
+]

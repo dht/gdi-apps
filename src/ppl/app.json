@@ -1,0 +1,71 @@
+{
+    "id": "com.usegdi.apps.ppl",
+    "name": "ppl",
+    "root": "/admin/ppl",
+    "routes": {
+        "ppl": "/admin/ppl"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/ppl",
+            "icon": "ReminderPerson",
+            "label": "People",
+            "groupId": "doing",
+            "order": 2
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {
+        "person": {
+            "itemType": "person",
+            "options": [
+                {
+                    "id": "mail",
+                    "iconName": "Mail",
+                    "text": "eMail",
+                    "shortKey": {
+                        "key": "m"
+                    }
+                },
+                {
+                    "id": "phone",
+                    "iconName": "Phone",
+                    "text": "Call",
+                    "shortKey": {
+                        "key": "c"
+                    }
+                },
+                {
+                    "id": "whatsapp",
+                    "iconName": "OfficeChat",
+                    "text": "send Whatsapp",
+                    "shortKey": {
+                        "key": "w"
+                    }
+                },
+                {
+                    "id": "editNote",
+                    "iconName": "EditNote",
+                    "text": "add Note",
+                    "shortKey": {
+                        "key": "n"
+                    }
+                },
+                {
+                    "id": "edit",
+                    "iconName": "Edit",
+                    "text": "Edit",
+                    "shortKey": {
+                        "key": "e"
+                    }
+                }
+            ]
+        }
+    },
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

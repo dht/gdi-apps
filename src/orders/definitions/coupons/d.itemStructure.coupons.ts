@@ -1,0 +1,21 @@
+export const itemStructure = `export type ICoupon = {
+    id: string;
+    name: string;
+    notes?: string;
+    startDate: string;
+    endDate: string;
+    distribution: CouponDistribution;
+    amount: number;
+    cap: number;
+    status: CouponStatus;
+    items: ICouponInstance[];
+    tags: string[];
+    dataTags: string[];
+    imageUrl?: string;
+    imageThumbUrl?: string;
+    ratio?: number;
+    couponType: CouponType;
+    couponValue: CouponValue;
+    productId: string;
+};
+`;

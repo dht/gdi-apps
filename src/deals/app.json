@@ -1,0 +1,47 @@
+{
+    "id": "com.usegdi.apps.deals",
+    "name": "deals",
+    "root": "/admin/deals",
+    "routes": {
+        "deals": "/admin/deals"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/deals",
+            "icon": "LightningBolt",
+            "label": "Deals",
+            "groupId": "marketing",
+            "order": 3
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {
+        "person": {
+            "itemType": "person",
+            "options": [
+                {
+                    "id": "newDeal",
+                    "iconName": "AutoEnhanceOn",
+                    "text": "new Deal",
+                    "shortKey": {
+                        "key": "s"
+                    }
+                },
+                {
+                    "id": "newDealAction",
+                    "iconName": "LightningBolt",
+                    "text": "add deal Action",
+                    "shortKey": {
+                        "key": "a"
+                    }
+                }
+            ]
+        }
+    },
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

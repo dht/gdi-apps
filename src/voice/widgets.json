@@ -1,0 +1,42 @@
+[
+    {
+        "id": "VoiceWidgets.Voice",
+        "name": "Voice",
+        "description": "Voice",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.voice.Voice"
+    },
+    {
+        "id": "VoiceWidgets.Speaker",
+        "name": "Speaker",
+        "description": "Speaker",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.voice.Speaker"
+    },
+    {
+        "id": "VoiceWidgets.VoiceTop",
+        "name": "VoiceTop",
+        "description": "VoiceTop",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.voice.VoiceTop"
+    },
+    {
+        "id": "VoiceWidgets.Transcript",
+        "name": "Transcript",
+        "description": "Transcript",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.voice.Transcript"
+    }
+]

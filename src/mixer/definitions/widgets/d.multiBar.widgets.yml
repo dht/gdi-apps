@@ -1,0 +1,11 @@
+id: WidgetsMultiBar
+header: Widgets
+initialViewMode: gallery
+viewModes:
+    - gallery
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

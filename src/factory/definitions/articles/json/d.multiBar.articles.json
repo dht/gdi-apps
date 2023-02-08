@@ -1,0 +1,16 @@
+{
+    "id": "ArticlesMultiBar",
+    "header": "Articles",
+    "initialViewMode": "table",
+    "viewModes": [
+        "gallery",
+        "table",
+        "spreadsheet"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

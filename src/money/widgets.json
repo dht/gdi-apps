@@ -1,0 +1,12 @@
+[
+    {
+        "id": "MoneyWidgets.Money",
+        "name": "Money",
+        "description": "Money",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.money.Money"
+    }
+]

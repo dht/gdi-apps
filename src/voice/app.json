@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.voice",
+    "name": "voice",
+    "root": "/admin/voice",
+    "routes": {
+        "voice": "/admin/voice"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/voice",
+            "icon": "Microphone",
+            "label": "Voice",
+            "groupId": "extra",
+            "order": 5.5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

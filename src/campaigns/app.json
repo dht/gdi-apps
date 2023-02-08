@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.campaigns",
+    "name": "campaigns",
+    "root": "/admin/campaigns",
+    "routes": {
+        "campaigns": "/admin/campaigns"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/campaigns",
+            "icon": "Speakers",
+            "label": "Advertise",
+            "groupId": "marketing",
+            "order": 1
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

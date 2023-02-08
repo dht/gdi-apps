@@ -1,0 +1,43 @@
+{
+    "id": "com.usegdi.apps.factory",
+    "name": "factory",
+    "root": "/admin/factory",
+    "routes": {
+        "layouts": "/admin/factory/layouts",
+        "layout": "/admin/factory/layouts/:layoutId",
+        "articles": "/admin/factory/articles",
+        "customWidgets": "/admin/factory/customWidgets",
+        "articleEditor": "/admin/factory/articles/:articleId"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/factory/articles",
+            "icon": "Documentation",
+            "label": "Articles",
+            "groupId": "site",
+            "order": 1
+        },
+        {
+            "path": "/admin/factory/layouts",
+            "icon": "ViewDashboard",
+            "label": "Layouts",
+            "groupId": "extra",
+            "order": 1.5
+        },
+        {
+            "path": "/admin/factory/customWidgets",
+            "icon": "Manufacturing",
+            "label": "Widgets",
+            "groupId": "site",
+            "order": 2
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

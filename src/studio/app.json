@@ -1,0 +1,27 @@
+{
+    "id": "com.usegdi.apps.studio",
+    "name": "studio",
+    "root": "/admin",
+    "routes": {
+        "studio": "/admin/studio",
+        "overviewNavigate": "/admin/overview/:inboxMessageId"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/studio",
+            "icon": "View",
+            "label": "Studio3D",
+            "groupId": "doing",
+            "showOnSlim": true,
+            "order": 0.5
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

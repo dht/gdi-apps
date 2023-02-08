@@ -1,0 +1,33 @@
+{
+    "id": "com.usegdi.apps.soundboard",
+    "name": "soundboard",
+    "root": "/admin/soundboard",
+    "routes": {
+        "soundboard": "/admin/soundboard",
+        "schedule": "/admin/soundboard/schedule"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/soundboard",
+            "icon": "BeerMug",
+            "label": "Attention",
+            "groupId": "extra",
+            "order": 1
+        },
+        {
+            "path": "/admin/soundboard/schedule",
+            "icon": "Calendar",
+            "label": "Time",
+            "groupId": "doing",
+            "order": 2
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

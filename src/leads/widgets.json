@@ -1,0 +1,12 @@
+[
+    {
+        "id": "LeadsWidgets.Leads",
+        "name": "Leads",
+        "description": "Leads",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.leads.Leads"
+    }
+]

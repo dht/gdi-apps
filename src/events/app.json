@@ -1,0 +1,33 @@
+{
+    "id": "com.usegdi.apps.events",
+    "name": "events",
+    "root": "/admin/events",
+    "routes": {
+        "events": "/admin/events",
+        "reminders": "/admin/reminders"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/events",
+            "icon": "Calendar",
+            "label": "Events",
+            "groupId": "extra",
+            "order": 0
+        },
+        {
+            "path": "/admin/reminders",
+            "icon": "AlarmClock",
+            "label": "Remind",
+            "groupId": "extra",
+            "order": 0
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

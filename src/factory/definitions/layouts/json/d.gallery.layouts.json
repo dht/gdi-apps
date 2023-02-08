@@ -1,0 +1,12 @@
+{
+    "id": "LayoutGallery",
+    "header": "Layouts",
+    "itemType": "layout",
+    "actions": [
+        {
+            "id": "new",
+            "iconName": "add",
+            "title": "New layout"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "com.usegdi.apps.leads",
+    "name": "leads",
+    "root": "/admin/leads",
+    "routes": {
+        "leads": "/admin/leads"
+    },
+    "menuItems": [
+        {
+            "path": "/admin/leads",
+            "icon": "Calories",
+            "label": "Leads",
+            "groupId": "marketing",
+            "order": 2
+        }
+    ],
+    "contextBarItems": [],
+    "commandBarItems": [],
+    "pieMenuItems": {},
+    "packageType": "app",
+    "version": "0.0.1",
+    "description": "",
+    "isDraft": false,
+    "isBeta": true
+}

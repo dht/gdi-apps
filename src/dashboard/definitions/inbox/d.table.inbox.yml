@@ -1,0 +1,43 @@
+id: InboxTable
+header: Inbox
+fields:
+    - id: iconName
+      title: Icon
+      cellType: icon
+      mapFields:
+          value: iconName
+          imageUrl: iconLogoUrl
+          isImageDark: iconLogoIsDark
+      flex: 1
+    - id: title
+      title: Title
+      cellType: notification
+      mapFields:
+          value: title
+          description: description
+          tags: tags
+          serviceName: serviceName
+          itemType: itemType
+      flex: 5
+    - id: time
+      title: Time
+      cellType: time
+      mapFields: { value: date }
+      flex: 1
+rowActions:
+    - id: snooze
+      iconName: AlarmClock
+      title: Snooze
+    - id: archive
+      iconName: Archive
+      title: Archive
+tableActions:
+    - id: back
+      iconName: arrow_upward
+      title: Go back
+    - id: mode
+      iconName: view_week
+      title: Change mode
+    - id: new
+      iconName: add
+      title: New item

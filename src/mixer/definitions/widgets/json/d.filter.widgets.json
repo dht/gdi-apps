@@ -1,0 +1,19 @@
+{
+    "id": "WidgetFilter",
+    "fields": [
+        {
+            "id": "tags",
+            "title": "Tags",
+            "cellType": "tags",
+            "optionSelectorId": "$widgetTags",
+            "allowMultiple": false
+        }
+    ],
+    "sort": [
+        {
+            "id": "name",
+            "text": "Name",
+            "value": "name"
+        }
+    ]
+}

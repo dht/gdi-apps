@@ -1,0 +1,13 @@
+id: EventsMultiBar
+header: Events
+initialViewMode: table
+viewModes:
+    - gallery
+    - calendar
+    - spreadsheet
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

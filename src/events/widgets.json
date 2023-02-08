@@ -1,0 +1,22 @@
+[
+    {
+        "id": "EventsWidgets.Events",
+        "name": "Events",
+        "description": "Events",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.events.Reminders"
+    },
+    {
+        "id": "EventsWidgets.Reminders",
+        "name": "Reminders",
+        "description": "Reminders",
+        "defaultDimension": {
+            "y": 16,
+            "x": 12
+        },
+        "widgetId": "com.usegdi.widgets.events.Reminders"
+    }
+]

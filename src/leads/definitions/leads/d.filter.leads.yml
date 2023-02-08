@@ -1,0 +1,26 @@
+id: LeadFilter
+fields:
+    - id: startDate
+      title: Start date
+      cellType: startDate
+      optionSelectorId: $periods
+      allowMultiple: false
+    - id: status
+      title: Status
+      cellType: text
+      optionSelectorId: $status
+      allowMultiple: true
+    - id: source
+      title: Source
+      cellType: text
+      optionSelectorId: $source
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $leadsTags
+      allowMultiple: false
+sort:
+    - id: startDate
+      text: Start Date
+      value: startDate

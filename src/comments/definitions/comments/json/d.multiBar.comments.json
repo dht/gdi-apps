@@ -1,0 +1,15 @@
+{
+    "id": "CommentsMultiBar",
+    "header": "Comments",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table",
+        "buckets"
+    ],
+    "hideParts": [
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}

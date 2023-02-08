@@ -1,0 +1,16 @@
+id: PagesFilter
+fields:
+    - id: status
+      title: Status
+      cellType: text
+      optionSelectorId: $pageStatus
+      allowMultiple: true
+    - id: tags
+      title: Tags
+      cellType: tags
+      optionSelectorId: $pagesTags
+      allowMultiple: false
+sort:
+    - id: lastPublishDate
+      text: Publish Date
+      value: lastPublishDate

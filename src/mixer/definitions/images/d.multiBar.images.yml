@@ -1,0 +1,11 @@
+id: ImagesMultiBar
+header: Images
+initialViewMode: gallery
+viewModes:
+    - gallery
+hideParts:
+    - preview
+tools:
+
+toolbarMode: select
+doubleClickActionId: drillDown

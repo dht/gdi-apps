@@ -1,0 +1,19 @@
+{
+    "id": "InboxMultiBar",
+    "header": "Inbox",
+    "initialViewMode": "table",
+    "viewModes": [
+        "table"
+    ],
+    "hideParts": [
+        "filter",
+        "tools",
+        "tagging",
+        "search",
+        "buttons",
+        "preview"
+    ],
+    "tools": null,
+    "toolbarMode": "select",
+    "doubleClickActionId": "drillDown"
+}
