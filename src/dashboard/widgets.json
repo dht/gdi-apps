@@ -7,7 +7,7 @@
             "y": 16,
             "x": 12
         },
-        "widgetId": "com.usegdi.widgets.dashboard.OverviewNavigate"
+        "widgetId": "com.usegdi.widgets.dashboard.Overview"
     },
     {
         "id": "DashboardWidgets.OverviewNavigate",

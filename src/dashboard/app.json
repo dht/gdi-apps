@@ -3,12 +3,12 @@
     "name": "dashboard",
     "root": "/",
     "routes": {
-        "overview": "/overview",
-        "overviewNavigate": "/overview/:inboxMessageId"
+        "overview": "/admin/overview",
+        "overviewNavigate": "/admin/overview/:inboxMessageId"
     },
     "menuItems": [
         {
-            "path": "/overview",
+            "path": "/admin/overview",
             "icon": "InboxCheck",
             "label": "Inbox",
             "groupId": "doing",
