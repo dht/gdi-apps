@@ -1,0 +1,15 @@
+id: board
+title: Board 1
+viewType: board
+order: 3
+boardOptions:
+    titleFieldId: summary
+tabs:
+    - id: stage
+      lanes:
+          - id: back
+            title: Back stage
+            dataTags: ['back']
+          - id: front
+            title: Front
+            dataTags: ['front']

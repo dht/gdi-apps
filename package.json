@@ -15,6 +15,7 @@
         "@gdi/types": "^0.4.6",
         "@gdi/web-tables": "^0.4.2",
         "@gdi/widgets": "^0.4.13",
+        "@mult/core": "^0.4.10",
         "chroma-js": "^2.4.2",
         "classnames": "^2.3.2",
         "react-redux": "^8.0.5",

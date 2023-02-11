@@ -1,0 +1,37 @@
+id: sheet
+title: Sheet 1
+viewType: sheet
+order: 2
+sheetOptions:
+    wrapAllColumns: true
+fields:
+    - id: fieldInstance_firstName
+      fieldId: firstName
+      order: 2
+    - id: fieldInstance_lastName
+      fieldId: lastName
+      order: 1
+      style:
+          width: 109
+          noWrap: true
+    - id: fieldInstance_shortDescription
+      fieldId: shortDescription
+      order: 3
+    - id: fieldInstance_dateOfBirth
+      fieldId: dateOfBirth
+      order: 4
+    - id: fieldInstance_category
+      fieldId: category
+      order: 5
+    - id: fieldInstance_tier
+      fieldId: tier
+      order: 6
+    - id: fieldInstance_company
+      fieldId: company
+      order: 7
+    - id: fieldInstance_jobTitle
+      fieldId: jobTitle
+      order: 8
+    - id: fieldInstance_email
+      fieldId: email
+      order: 10

@@ -1,0 +1,48 @@
+- id: firstName
+  dataId: firstName
+  title: First name
+  fieldType: text
+- id: lastName
+  dataId: lastName
+  fieldType: text
+  title: Last name
+- id: shortDescription
+  dataId: shortDescription
+  fieldType: text
+  title: Phone number
+- id: dateOfBirth
+  fieldType: date
+  dataId: dateOfBirth
+  title: Date of birth
+- id: category
+  title: Category
+  dataId: category
+  fieldType: select
+  optionSelector: $pplCategory
+- id: tier
+  title: Tier
+  dataId: tier
+  fieldType: number
+  params:
+      min: 1
+      max: 3
+- id: company
+  fieldType: text
+  dataId: company
+  title: Company
+- id: jobTitle
+  fieldType: text
+  dataId: jobTitle
+  title: Job title
+- id: email
+  dataId: email
+  fieldType: text
+  title: Email
+- id: tags
+  dataId: tags
+  fieldType: multiSelect
+  title: Tags
+- id: fullName
+  dataId: fullName
+  fieldType: text
+  title: Full name
